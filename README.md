@@ -5,7 +5,8 @@
 [nerds]
 Owner | Contributors
 ------------ | -------------
-`aeris` | `Kyle`
+aeris | Kyle
+Content in the first column | Content in the second column
 
 First Header | Second Header
 ------------ | -------------
