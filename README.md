@@ -3,11 +3,6 @@
 # NerdTech - Nerds that likes to code
 
 [nerds]
-Owner | Contributors
------------- | -------------
-aeris | Kyle
-Content in the first column | Content in the second column
-
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
