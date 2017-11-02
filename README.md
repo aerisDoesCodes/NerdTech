@@ -2,4 +2,4 @@
 
 # NerdTech - Nerds that likes to code
 
-[Nerds]: `aeris` (project owner), `Kyle` (contributor)
+[Nerds] `aeris` (project owner), `Kyle` (contributor)
