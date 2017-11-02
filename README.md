@@ -2,6 +2,6 @@
 
 # NerdTech - Nerds that likes to code
 
-[nerds] 
+[Nerds]\n
 Owner : `aeris`
 Contributors : `Kyle`
