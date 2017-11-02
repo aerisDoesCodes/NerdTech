@@ -2,8 +2,6 @@
 
 # NerdTech - Nerds that likes to code
 
-[nerds]
-First Header | Second Header
+Owner | Contributors
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+`aeris` | `Kyle`
