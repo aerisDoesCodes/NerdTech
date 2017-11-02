@@ -2,3 +2,11 @@ body {
   background-color: #565656;
   background: no-repeat;
 }
+
+nerd {
+ font-size: 1.5rem; /* Depends actually */
+ margin-bottom: -0.1rem; /* Depends actually */
+ font-family: inherit; 
+ font-weight: 300;
+ color: #5ac48f; 
+}
